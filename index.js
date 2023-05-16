@@ -1,5 +1,5 @@
 import express from "express";
-import appRouter from "./routes/route.js";
+import appRouter from "./routes/endPoint.js";
 const app = express();
 const port = 3000; // You can change the port number if needed
 
