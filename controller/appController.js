@@ -1,3 +1,8 @@
+// * importent
+// ! More importent
+// ? More importent
+// TODO: Do more better
+
 export const signup = (req, res) => {
   res.status(201).json({ message: "Signup successful!" });
 };
